@@ -12,6 +12,8 @@ Dev Worm: https://www.youtube.com/@dev-worm/featured
 
 ## Python
 
+Coding with Russ: https://www.youtube.com/@CodingWithRuss/playlists
+
 Final Fantasy: https://www.youtube.com/watch?v=Vlolidaoiak&list=PLjcN1EyupaQnvpv61iriF8Ax9dKra-MhZ
 
 Stree Fighter: https://www.youtube.com/watch?v=s5bd9KMSSW4
