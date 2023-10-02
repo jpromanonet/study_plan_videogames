@@ -12,6 +12,10 @@ Dev Worm: https://www.youtube.com/@dev-worm/featured
 
 ## Python
 
+Final Fantasy: https://www.youtube.com/watch?v=Vlolidaoiak&list=PLjcN1EyupaQnvpv61iriF8Ax9dKra-MhZ
+
+Stree Fighter: https://www.youtube.com/watch?v=s5bd9KMSSW4
+
 Coder Space: https://www.youtube.com/@CoderSpaceChannel/featured
 
 Clear Code: https://www.youtube.com/@ClearCode
