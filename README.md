@@ -25,6 +25,7 @@ Ania Kubow: https://www.youtube.com/@AniaKubow
 ## C++
 
 Javidx9: https://www.youtube.com/javidx9
+Victor Engelmann: https://www.youtube.com/@writeyourownoperatingsystem
 
 ## Unity
 
