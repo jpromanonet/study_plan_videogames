@@ -10,6 +10,8 @@ Heart Beast Projects: https://www.youtube.com/results?search_query=godot+project
 
 Dev Worm: https://www.youtube.com/@dev-worm/featured
 
+Farming Game Projects: https://www.youtube.com/results?search_query=farming+game+godot
+
 ## Python
 
 Coding with Russ: https://www.youtube.com/@CodingWithRuss/playlists
