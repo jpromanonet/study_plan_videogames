@@ -1,5 +1,10 @@
 # study_plan_videogames
 
+Part 1 of 3
+- Part 1: https://github.com/jpromanonet/study_plan_videogames
+- Part 2: https://github.com/jpromanonet/study_plan_python
+- Part 3: https://github.com/jpromanonet/study_plan_cpp
+
 ## Godot
 
 Godot Projects: https://www.youtube.com/results?search_query=godot+projects
