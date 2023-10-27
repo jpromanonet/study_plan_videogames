@@ -17,6 +17,8 @@ Dev Worm: https://www.youtube.com/@dev-worm/featured
 
 Farming Game Projects: https://www.youtube.com/results?search_query=farming+game+godot
 
+Coding with Russ: https://www.youtube.com/@CodingWithRuss/playlists
+
 ## Python
 
 Coding with Russ: https://www.youtube.com/@CodingWithRuss/playlists
