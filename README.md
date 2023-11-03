@@ -11,7 +11,7 @@ Godot Projects: https://www.youtube.com/results?search_query=godot+projects
 
 Godot Projects longer video: https://www.youtube.com/results?search_query=godot+projects&sp=EgIYAg%253D%253D
 
-Heart Beast Projects: https://www.youtube.com/results?search_query=godot+projects
+Heart Beast Projects: https://www.youtube.com/@uheartbeast
 
 Dev Worm: https://www.youtube.com/@dev-worm/featured
 
