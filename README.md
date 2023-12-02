@@ -6,12 +6,13 @@ Part 1 of 3
 - Part 3: https://github.com/jpromanonet/study_plan_cpp
 
 ---
-### Learning ORder:
-1.PyGame
-2.Godot
-3.C++
-4.Javascript
-5.Unity
+### Learning Order:
+
+1. PyGame
+2. Godot
+3. C++
+4. Javascript
+5. Unity
 
 ## Godot
 
